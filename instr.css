@@ -1,0 +1,35 @@
+html{
+    background-color: black;
+    color: rgb(193, 193, 193);
+    font-family: 'Courier New', Courier, sans-serif;
+}
+a{
+    text-decoration: none;
+    color: rgb(193, 193, 193);
+}
+a:hover{
+    text-decoration: underline;
+}
+body{
+    max-width: 800px;
+    text-align: center;
+    margin: 200px auto;
+}
+h1{
+    color: rgb(156, 156, 211);
+    margin-bottom: 60px;
+}
+#start{
+    margin-top: 40px;
+}
+#start a{
+    color: white;
+}
+#cred{
+    margin: 200px 99px 0 99px;
+    font-size: 13px;
+    text-align: left;
+}
+#cred a{
+    font-style: italic;
+}
